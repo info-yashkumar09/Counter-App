@@ -15,5 +15,3 @@ This is a simple Counter App built as part of my Android development learning jo
 Handling user interactions with event listeners in Kotlin.
 
 Feel free to check out the project, suggest improvements, or fork it to create your own version! 🚀
-
-#Download Counter App apk []
